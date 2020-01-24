@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dijkstra</string>
+    <string name="please_enter_the_name_of_node">Please enter the name of node!</string>
+    <string name="node1">Node1</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="please_select_a_parent_node">Please select a parent node!</string>
+    <string name="_999">999</string>
+    <string name="is_a_child">Is a child?</string>
+    <string name="cost_from_parent">Cost from parent?</string>
+    <string name="please_select_a_child_node_to_add">Please select a child node to add</string>
+    <string name="selected_child">Selected child node:</string>
+    <string name="selected_parent">Selected parent node:</string>
+    <string name="nodename">NodeName</string>
+    <string name="child_node_s_name">child node\'s name</string>
+    <string name="add_child_to_parent">Add child to parent</string>
+</resources>
